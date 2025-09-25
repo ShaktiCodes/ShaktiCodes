@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Shakti Singh  
 
 🌿 Passionate about building **AI-powered applications**, blending technology with creativity, and designing user-centric experiences.  
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250.png?text=Shakti+Singh+-+AI+%7C+Full+Stack+Developer+%7C+Tech+with+Empathy" alt="Banner" />
+</p>
 
 ---
 
