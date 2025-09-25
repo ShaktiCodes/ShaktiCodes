@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 # 👋 Hi, I’m Shakti Singh  
 
 🌿 Passionate about building **AI-powered applications**, blending technology with creativity, and designing user-centric experiences.  
@@ -79,5 +75,3 @@
 ---
 
 ✨ *"Technology with empathy can change lives. I believe in building applications that don’t just work, but truly make a difference."*  
-
--->
